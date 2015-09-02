@@ -10,6 +10,8 @@ namespace Lab2_TestProject
     {
         static void Main(string[] args)
         {
+            Console.Write("Hello World!");
+            Console.Read();
         }
     }
 }
